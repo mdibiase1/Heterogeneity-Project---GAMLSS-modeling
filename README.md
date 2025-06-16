@@ -27,11 +27,11 @@ The following R packages are required:
 
 ## Notes
 
-Z-scores computed reflect individual deviation from normative predictions after adjusting for age and sex using SHASH distribution parameters.
+- Z-scores computed reflect individual deviation from normative predictions after adjusting for age and sex using SHASH distribution parameters.
 
-The model is trained using healthy controls only
+- The model is trained using healthy controls only
 
-The SHASH distribution enables modeling of skewness and kurtosis, improving fit to real-world phenotype distributions
+- The SHASH distribution enables modeling of skewness and kurtosis, improving fit to real-world phenotype distributions
 
 
 ## Citation
