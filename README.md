@@ -14,9 +14,9 @@ The pipeline includes:
 
 The following R packages are required:
   
-gamlss
-R.matlab
-pracma
+- gamlss
+- R.matlab
+- pracma
 
 ## Input 
 - .mat file: Preprocessed data containing phenotype, age, sex, and diagnosis (a matrix of subjects on rows and columns = groups (healthy control group = column one and coluns 2-x are diagnostic groups) and 1 given to subject with a diagnosis)
